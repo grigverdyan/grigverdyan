@@ -29,7 +29,7 @@
 ### :man_technologist: About Me :
   I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Yerevan, Armenia.
   
-- :telescope: I’m learning as a Software Engineer.
+- :telescope: I’m learning Software Engineering.
 
 - :seedling: Exploring Linux, Algorithms and Machine Learning.
 
