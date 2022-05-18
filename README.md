@@ -64,8 +64,8 @@
   
   ---
 
-### :fire: My Statistics :
+<!-- ### :fire: My Statistics :
  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grigverdyan&show_icons=true&theme=synthwave)
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grigverdyan)](https://github.com/grigverdyan/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grigverdyan)](https://github.com/grigverdyan/github-readme-stats) -->
