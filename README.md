@@ -69,3 +69,9 @@
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grigverdyan&show_icons=true&theme=synthwave)
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grigverdyan)](https://github.com/grigverdyan/github-readme-stats) -->
+  
+<p align="center">
+  <a href="https://github.com/madebypixel02">
+    <img src="https://raw.githubusercontent.com/madebypixel02/madebypixel02/output/github-contribution-grid-snake.svg">
+  </a>
+</p>
