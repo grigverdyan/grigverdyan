@@ -1,6 +1,11 @@
 
 <div id="header" align="center">
+  <h1>
+    Hie and Welcome
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="50px"/>
+  </h1>
   <img src="https://media2.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.webp?cid=ecf05e47f4w98l18kdx9venzhfuhn5cu76fjybs9kwjslaxg&rid=giphy.webp&ct=g" width="220"/>
+  <img src="https://media0.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e47o1qekswf7dak0z64in4qaxynrhau7xol2jh1aaun&rid=giphy.gif&ct=g" width="400" height="275"/>
 </div>
 
 <div id="badges" align="center">
@@ -14,18 +19,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=grigverdyan&style=flat-square&color=blue" alt=""/>
 </div>
-   
-<h1>
-  Hye everyone, Welcome to my Github account
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
   
-<div align="center">
-  <img src="https://media0.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e47o1qekswf7dak0z64in4qaxynrhau7xol2jh1aaun&rid=giphy.gif&ct=g" width="400" height="300"/>
-</div>
-  
-  ---
-
 ### :man_technologist: About Me :
   I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Yerevan, Armenia.
   
@@ -64,12 +58,10 @@
   
   ---
 
-### :fire: My Statistics :
+<!-- ### :fire: My Statistics : -->
  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=grigverdyan&show_icons=true&theme=synthwave)
-  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grigverdyan)](https://github.com/grigverdyan/github-readme-stats)
-  
+
+<!-- snake game   -->
 <p align="center">
   <a href="https://github.com/madebypixel02">
     <img src="https://raw.githubusercontent.com/madebypixel02/madebypixel02/output/github-contribution-grid-snake.svg">
