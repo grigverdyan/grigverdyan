@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   <h1>
-    Hie and Welcome
+    Hi and Welcome
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="50px"/>
   </h1>
   <img src="https://media2.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.webp?cid=ecf05e47f4w98l18kdx9venzhfuhn5cu76fjybs9kwjslaxg&rid=giphy.webp&ct=g" width="220"/>
@@ -61,9 +61,10 @@
 <!-- ### :fire: My Statistics : -->
  
 
-<!-- snake game   -->
+<!-- snake game   
 <p align="center">
   <a href="https://github.com/madebypixel02">
     <img src="https://raw.githubusercontent.com/madebypixel02/madebypixel02/output/github-contribution-grid-snake.svg">
   </a>
 </p>
+-->
