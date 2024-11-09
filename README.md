@@ -1,8 +1,7 @@
 
 <div id="header" align="center">
   <h1>
-    Hi and Welcome
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="50px"/>
+    Welcome to my Github Page
   </h1>
   <img src="https://media2.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.webp?cid=ecf05e47f4w98l18kdx9venzhfuhn5cu76fjybs9kwjslaxg&rid=giphy.webp&ct=g" width="220"/>
 
@@ -23,11 +22,15 @@
 ### :man_technologist: About Me :
   I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Yerevan, Armenia.
   
-- :telescope: I’m learning Software Engineering.
+- :telescope: I have a Bachelor's degree in EDA.
 
-- :seedling: Exploring Linux, Algorithms and Machine Learning.
+- :telescope: I am pursuing my Master’s degree in Development of Information Systems at Yerevan State University.
 
-- :zap: I am also studying at 42 Yerevan.
+- :seedling: Proficiency in C, C++, Algorithms and Data Structures.
+
+- :seedling: Exploring Data Science, Machine Learning and Cloud Computing.
+
+- :zap: Student at 42 Yerevan.
 
 - :mailbox:How to reach me:   <a href="https://www.linkedin.com/in/grigori-verdyan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
