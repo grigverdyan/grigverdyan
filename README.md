@@ -3,8 +3,7 @@
   <h1>
     Welcome to my Github Page
   </h1>
-  <img src="https://media2.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.webp?cid=ecf05e47f4w98l18kdx9venzhfuhn5cu76fjybs9kwjslaxg&rid=giphy.webp&ct=g" width="220"/>
-
+<!--   <img src="https://media2.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.webp?cid=ecf05e47f4w98l18kdx9venzhfuhn5cu76fjybs9kwjslaxg&rid=giphy.webp&ct=g" width="220"/> -->
 </div>
 
 <div id="badges" align="center">
