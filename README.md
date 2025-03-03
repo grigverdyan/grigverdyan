@@ -28,7 +28,7 @@
 
 ## 📜 **About Me**
 
-Hey there! I'm **Grigor Verdyan**, a passionate **C++ Software Engineer** with a strong background in **low-level programming, compiler construction, algorithms, and system design**. I love solving complex problems, optimizing performance, and exploring modern C++ features.  
+Hey there! I'm **Grigori Verdyan**, a passionate **C++ Software Engineer** with a strong background in **low-level programming, compiler construction, algorithms, and system design**. I love solving complex problems, optimizing performance, and exploring modern C++ features.  
 
 I have experience working with:  
 - **C++ (98, 11, 14, 17, 20)**
