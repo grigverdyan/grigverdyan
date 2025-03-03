@@ -87,7 +87,6 @@ I'm continuously learning and improving my skills. Currently, I'm focusing on:
 ## 📊 **GitHub Stats**
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=grigverdyan&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grigverdyan&layout=compact&theme=tokyonight)  
 
 </div>
