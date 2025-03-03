@@ -1,72 +1,112 @@
-
-<div id="header" align="center">
-  <h1>
-    Welcome to my Github Page
-  </h1>
-<!--   <img src="https://media2.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.webp?cid=ecf05e47f4w98l18kdx9venzhfuhn5cu76fjybs9kwjslaxg&rid=giphy.webp&ct=g" width="220"/> -->
-</div>
-
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/grigori-verdyan/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.facebook.com/grigori.verdyan13">
-    <img src="https://img.shields.io/badge/Facebook-darkblue?style=for-the-badge&logo=facebook&logoColor=white" alt="Youtube Badge"/>
-</div>
-  
+<a name="readme-top"></a>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=grigverdyan&style=flat-square&color=blue" alt=""/>
+  
+  <!-- Profile Name -->
+  <h1>👋 Hi, I'm Grigori Verdyan!</h1>
+
+  <!-- Short Bio -->
+  <p>
+    <b>Software Engineer | C++ Software Engineer | C++ Programming Enthusiast</b><br>
+  </p>
+
+  <h3>
+      <a href="#-about-me">📜 About Me</a>
+    <span> · </span>
+      <a href="#-skills">🚀 Skills</a>
+    <span> · </span>
+      <a href="#-learning">🎯 Learning</a>
+    <span> · </span>
+      <a href="#-github-stats">📊 GitHub Stats</a>
+    <span> · </span>
+      <a href="#-contact">📬 Contact</a>
+    <span> · </span>
+      <a href="#-projects">💻 Projects</a>
+  </h3>
 </div>
-  
-### :man_technologist: About Me :
-  I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Yerevan, Armenia.
-  
-- :telescope: I have a Bachelor's degree in EDA.
 
-- :telescope: I am pursuing my Master’s degree in Development of Information Systems at Yerevan State University.
+---
 
-- :seedling: Proficiency in C, C++, Algorithms and Data Structures.
+## 📜 **About Me**
 
-- :seedling: Exploring Data Science, Machine Learning and Cloud Computing.
+Hey there! I'm **Grigor Verdyan**, a passionate **C++ Software Engineer** with a strong background in **low-level programming, compiler construction, algorithms, and system design**. I love solving complex problems, optimizing performance, and exploring modern C++ features.  
 
-- :zap: Student at 42 Yerevan.
+I have experience working with:  
+- **C++ (98, 11, 14, 17, 20)**
+- **C**
+- **Data Structures & Algorithms**
+- **STL, OOP, Design Patterns**
+- **Memory Management**
+- **Multithreading & Concurrency**
+- **Compilers & Low-Level Programming**
+- **Linux Systems & Shell Scripting**
+- **Cloud Computing (Azure Development)**
+- **Networking (TCP/IP)**
 
-- :mailbox:How to reach me:   <a href="https://www.linkedin.com/in/grigori-verdyan/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
-  ---
+---
 
-### :hammer_and_wrench: Languages and Tools :
-  
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP" alt="CPP" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="Vim" alt="Vim" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vsCode" alt="vsCode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
+## 🚀 **Skills**
+
+### **Programming Languages**
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![QT](https://img.shields.io/badge/QT-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+### **Technologies & Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Perforce](https://img.shields.io/badge/Perforce-404040?style=for-the-badge&logo=perforce&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=machine-learning&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-007ACC?style=for-the-badge&logo=llms&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Makefile](https://img.shields.io/badge/Makefile-064F8C?style=for-the-badge&logo=gnu&logoColor=white)
+
+### **Development Areas**
+- **Algorithms & Data Structures**
+- **OOP & Design Patterns**
+- **Systems Programming & OS Concepts**
+- **Multithreading & Concurrency**
+- **Compiler Development & Assembly**
+- **Game Development & Graphics**
+
+---
+
+## 🎯 **Learning**
+I'm continuously learning and improving my skills. Currently, I'm focusing on:  
+- **Advanced Modern C++ (C++20, Concepts, Coroutines)**
+- **Parallel & Distributed Computing**
+- **Operating System Internals (Kernel, Process Scheduling)**
+- **AI & Machine Learning (Python, TensorFlow)**
+
+---
+
+## 📊 **GitHub Stats**
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=grigverdyan&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grigverdyan&layout=compact&theme=tokyonight)  
+
 </div>
-  
-  ---
 
-<!-- ### :fire: My Statistics : -->
- 
+---
 
-<!-- snake game   
-<p align="center">
-  <a href="https://github.com/madebypixel02">
-    <img src="https://raw.githubusercontent.com/madebypixel02/madebypixel02/output/github-contribution-grid-snake.svg">
-  </a>
-</p>
--->
+## 📬 **Contact**
+Want to connect? Feel free to reach out!  
+
+📧 **Email:** [verdyan01@gmail.com](mailto:verdyan01@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/grigori-verdyan/](https://www.linkedin.com/in/grigori-verdyan/)  
+
+---
+
+#### 🎯 *"Strive for progress, not perfection!"* 🚀  
+
+---
+
+## 💻 **Projects**
+Check out my repositories for more!  
+
+---
